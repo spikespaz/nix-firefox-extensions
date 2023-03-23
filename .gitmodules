@@ -1,0 +1,3 @@
+[submodule "rycee"]
+	path = rycee
+	url = https://git.sr.ht/~rycee/nur-expressions
